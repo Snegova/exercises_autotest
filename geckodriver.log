@@ -1,0 +1,12 @@
+1670431864412	geckodriver	INFO	Listening on 127.0.0.1:51236
+1670431864909	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51237" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/0f/0cqhlpxs6l9c6pg7hz3g7ky80000gp/T/rust_mozprofile2EibZB"
+1670431866846	Marionette	INFO	Marionette enabled
+1670431866934	Marionette	INFO	Listening on port 51256
+Read port: 51256
+Read port: 51256
+WebDriver BiDi listening on ws://127.0.0.1:51237
+1670431869081	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/0f/0cqhlpxs6l9c6pg7hz3g7ky80000gp/T/rust_mozprofile2EibZB/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51237/devtools/browser/4a944994-bf25-4cc3-a060-eb090219a35d
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/catalogue/coders-at-work_207/, line 614: ReferenceError: oscar is not defined
+1670431884531	Marionette	INFO	Stopped listening on port 51256
